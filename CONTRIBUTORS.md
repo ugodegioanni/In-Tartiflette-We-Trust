@@ -5,3 +5,4 @@
   * Samuel Barraud
   * Rémy Pradier
   * Dylan Dareau
+  * Morgan Vavasseur
