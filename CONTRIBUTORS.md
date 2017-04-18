@@ -1,1 +1,7 @@
-# In-Tartiflette-We-Trust
+# Contributeurs
+
+Vincent Romain
+Ugo Degioanni
+Samuel Barraud
+Rémy Pradier
+Dylan Dareau
